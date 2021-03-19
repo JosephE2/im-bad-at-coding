@@ -1,0 +1,19 @@
+#incude <iostream>
+
+
+int help()
+
+  {
+
+std::cout <<"this is bad help\n";
+std:::cin >>"it got worse\n";
+  
+  }
+
+
+  {
+
+std::cout <<"time:9:58. Tommarow i allocate the day to getting better at cpp\n";
+std::cin  >>"kbye\n";
+
+  }
